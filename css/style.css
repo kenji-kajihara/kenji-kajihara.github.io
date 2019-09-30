@@ -145,7 +145,14 @@ li {
   align-items: center;
   justify-content: center;
   height: 86vh;
+  background-image:url(../img/pipe.jpg) ;
+  background-size: cover;
+  color: #fff;
+  text-shadow: 3px 3px 1px #000000;
+  background-color: #fff;
 }
+
+
 
 #header .logo {
   position: relative;
